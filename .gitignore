@@ -1,0 +1,9 @@
+*.asc
+*.bin
+*.blif
+*.swp
+*.json
+*.o
+*.oo
+dependency
+build
