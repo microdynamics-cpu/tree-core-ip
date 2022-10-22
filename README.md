@@ -34,6 +34,6 @@
 All of the TreeCore IP codes are release under the [GPL-3.0 License](LICENSE).
 
 ## Acknowledgement
-1. [icesugar](https://github.com/wuxx/icesugar)
-
+1. [Free Books, Why Not?](https://www.greenteapress.com/free_books.html)
+2. [IP Cores Design from Specifications to Production]()
 ## Reference
