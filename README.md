@@ -1,6 +1,6 @@
 <p align="center">
     <!-- <img width="200px" src="./.images/tree_core_logo.svg" align="center" alt="Tree Core CPU" /> -->
-    <h2 align="center">TreeCore IP: A series of HDL IP for Accurate-cycle and Event-driven Simulation and Verification</h2>
+    <h2 align="center">TreeCore IP: A series of HDL IP with Accurate-cycle and Event-driven Simulation Model and Verification</h2>
 </p>
 <p align="center">
     <a href="https://github.com/microdynamics-cpu/tree-core-ip/actions">
