@@ -1,6 +1,6 @@
 <p align="center">
     <!-- <img width="200px" src="./.images/tree_core_logo.svg" align="center" alt="Tree Core CPU" /> -->
-    <h2 align="center">TreeCore IP: A series of HDL IP with Accurate-cycle and Event-driven Simulation Model and Verification</h2>
+    <h2 align="center">TreeCore IP: A series of HDL IP with Accurate-cycle and Event-driven Simulation Model and UVM Verification</h2>
 </p>
 <p align="center">
     <a href="https://github.com/microdynamics-cpu/tree-core-ip/actions">
@@ -36,4 +36,5 @@ All of the TreeCore IP codes are release under the [GPL-3.0 License](LICENSE).
 ## Acknowledgement
 1. [Free Books, Why Not?](https://www.greenteapress.com/free_books.html)
 2. [IP Cores Design from Specifications to Production]()
+3. [Open Hardware Verification](https://github.com/ben-marshall/awesome-open-hardware-verification)
 ## Reference
