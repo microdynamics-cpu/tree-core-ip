@@ -15,8 +15,8 @@
     <a href="https://github.com/microdynamics-cpu/tree-core-ip">
       <img src="https://img.shields.io/badge/total%20lines-0k-red?style=flat-square">
     </a>
-    <a href="https://github.com/YosysHQ">
-      <img src="https://img.shields.io/badge/toolchain-kicad-red?style=flat-square">
+    <a href="https://github.com/cocotb/cocotb">
+      <img src="https://img.shields.io/badge/toolchain-cocotb-red?style=flat-square">
   </a>
     <a href="./CONTRIBUTING.md">
       <img src="https://img.shields.io/badge/contribution-welcome-brightgreen?style=flat-square">
