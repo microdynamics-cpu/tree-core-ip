@@ -4,7 +4,7 @@
 </p>
 <p align="center">
     <a href="https://github.com/microdynamics-cpu/tree-core-ip/actions">
-      <img src="https://img.shields.io/github/workflow/status/microdynamics-cpu/tree-core-ip/unit-test/main?label=unit-test&logo=github&style=flat-square">
+      <img src="https://img.shields.io/github/actions/workflow/status/microdynamics-cpu/tree-core-ip/unit-test.yml?branch=main&logo=github&style=flat-square">
     </a>
     <a href="./LICENSE">
       <img src="https://img.shields.io/github/license/microdynamics-cpu/tree-core-ip?color=brightgreen&logo=github&style=flat-square">
