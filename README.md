@@ -23,6 +23,31 @@
 </p>
 
 ## Overview
+
+### System
+1. UART
+2. SPI FLASH
+3. Trace
+4. JTAG
+
+### Peripheral
+1. TIMER
+2. GPIO
+3. PS/2
+4. SPI
+5. I2C
+6. I2S
+
+### Memory System
+1. ChipLink
+2. SDRAM
+3. DDR1
+
+### Graphics Interface:
+1. VGA
+2. HDMI
+3. GPU
+
 ## Motivation
 ## Feature
 ## Usage
