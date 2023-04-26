@@ -23,11 +23,15 @@
 </p>
 
 ## Overview
+### Core
+1. RV32
+2. RV64
 
 ### System
 1. UART
 2. SPI FLASH
-3. Trace
+3. AMBA BUS
+3. TRACE
 4. JTAG
 
 ### Peripheral
@@ -37,6 +41,8 @@
 4. SPI
 5. I2C
 6. I2S
+7. USB
+8. SDIO
 
 ### Memory System
 1. ChipLink
@@ -46,7 +52,8 @@
 ### Graphics Interface:
 1. VGA
 2. HDMI
-3. GPU
+3. MIPI
+4. GPU
 
 ## Motivation
 ## Feature
