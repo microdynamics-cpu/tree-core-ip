@@ -1,5 +1,5 @@
 <p align="center">
-    <h2 align="center">TreeCore IP: A series of HDL IP with Accurate-cycle and Event-driven Simulation Model and UVM Verification</h2>
+    <h2 align="center">TreeCore IP: A series of HDL IP with Accurate-cycle, Event-driven Simulation Model and UVM Verification</h2>
 </p>
 <p align="center">
     <a href="https://github.com/microdynamics-cpu/tree-core-ip/actions">
