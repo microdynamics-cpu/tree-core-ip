@@ -12,7 +12,7 @@
       <img alt="stars" src="https://img.shields.io/github/stars/microdynamics-cpu/tree-core-ip?color=blue&style=flat-square" />
     </a>
     <a href="https://github.com/microdynamics-cpu/tree-core-ip">
-      <img src="https://img.shields.io/badge/total%20lines-0k-red?style=flat-square">
+      <img src="https://img.shields.io/tokei/lines/github/microdynamics-cpu/tree-core-ip?color=red&style=flat-square">
     </a>
     <a href="https://github.com/cocotb/cocotb">
       <img src="https://img.shields.io/badge/toolchain-cocotb-red?style=flat-square">
