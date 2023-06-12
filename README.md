@@ -68,4 +68,5 @@ All of the TreeCore IP codes are release under the [GPL-3.0 License](LICENSE).
 1. [Free Books, Why Not?](https://www.greenteapress.com/free_books.html)
 2. [IP Cores Design from Specifications to Production]()
 3. [Open Hardware Verification](https://github.com/ben-marshall/awesome-open-hardware-verification)
+4. [apb_timer](https://github.com/pulp-platform/apb_timer/)
 ## Reference
