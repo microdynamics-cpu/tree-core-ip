@@ -135,7 +135,7 @@ module timer #(
 
     // written from APB bus - gets priority
     if (psel_i && penable_i && pwrite_i) begin
-      case (reg_addr)
+      unique case (reg_addr)
         `REG_TIMER:      regs_n[`REG_TIMER] = pwdata_i;
         `REG_TIMER_CTRL: regs_n[`REG_TIMER_CTRL] = pwdata_i;
         `REG_CMP: begin
@@ -150,7 +150,7 @@ module timer #(
   always_comb begin
     prdata_o = 'd0;
     if (psel_i && penable_i && !pwrite_i) begin
-      case (reg_addr)
+      unique case (reg_addr)
         `REG_TIMER:      prdata_o = regs_q[`REG_TIMER];
         `REG_TIMER_CTRL: prdata_o = regs_q[`REG_TIMER_CTRL];
         `REG_CMP:        prdata_o = regs_q[`REG_CMP];
