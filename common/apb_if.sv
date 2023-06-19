@@ -1,7 +1,6 @@
 interface apb_if #(
     parameter APB_ADDR_WIDTH = 32,
-    parameter APB_DATA_WIDTH = 32,
-    parameter TIM_NUM        = 2
+    parameter APB_DATA_WIDTH = 32
 ) (
     input logic pclk,
     input logic presetn
@@ -15,7 +14,6 @@ interface apb_if #(
   logic [ APB_DATA_WIDTH-1:0] prdata;
   logic                       pready;
   logic                       pslverr;
-  logic [(TIM_NUM * 2) - 1:0] irq;
 
   modport slave(
       input paddr,
@@ -25,8 +23,7 @@ interface apb_if #(
       input penable,
       output prdata,
       output pready,
-      output pslverr,
-      output irq
+      output pslverr
   );
 
   modport master(
@@ -37,8 +34,7 @@ interface apb_if #(
       output penable,
       input prdata,
       input pready,
-      input pslverr,
-      input irq
+      input pslverr
   );
 
 endinterface
